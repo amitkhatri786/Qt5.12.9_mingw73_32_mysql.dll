@@ -1,4 +1,4 @@
-# Qt5.12.9_mingw73_32_mysql.dll
+
 Mysql driver for QT5.12.9
 
  Compile with mingw73_32 bit for Qt5.12.9
