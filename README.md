@@ -19,9 +19,13 @@ Commands:
 
 cd F:\QT5\qt-everywhere-src-5.12.9\qtbase\src\plugins\sqldrivers
 qmake sqldrivers.pro
+
 cd mysql
+
 qmake mysql.pro
+
 mingw32-make
+
 
 Plugin location --> F:\QT5\qt-everywhere-src-5.12.9\qtbase\src\plugins\sqldrivers\plugins\sqldrivers
 Put .dll inside installation directory of qt--> F:\Qt\Qt5.12.9\5.12.9\mingw73_32\plugins\sqldrivers
